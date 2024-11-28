@@ -21,7 +21,7 @@
 03/22 08:51:11 INFO   :..mailbox_register: mailbox allocated for pipe
  07 
 03/22 08:51:11 INFO   :.main: rsvpd initialization complete
- 08 
+ 08
 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
 03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
 03/22 08:52:50 TRACE  :......rsvp_event_mapSession: Session=9.67.116.99:1047:6 does not exist
